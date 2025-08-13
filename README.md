@@ -18,4 +18,4 @@ it has all the featurs that i would want without any extra stuff that i wouldn't
 - capslock indicator LED
 
 ## layout
-![Render](https://github.com/ZoharGalili/UDB-S-JST/blob/main/assets/keyboard-layout.png)
+![Render](https://github.com/ZoharGalili/65_ThePCB/blob/main/assets/keyboard-layout.png)
