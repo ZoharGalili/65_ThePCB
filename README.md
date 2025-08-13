@@ -16,3 +16,6 @@ it has all the featurs that i would want without any extra stuff that i wouldn't
 - smallest package is 0805
 - stf32f0x2 (xtal less usb)
 - capslock indicator LED
+
+## layout
+![Render](https://github.com/ZoharGalili/UDB-S-JST/blob/main/assets/keyboard-layout.png)
