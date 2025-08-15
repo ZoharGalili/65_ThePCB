@@ -9994,7 +9994,7 @@
 	)
 	(symbol
 		(lib_id "PCM_marbastlib-mx:MX_stab")
-		(at 317.5 31.75 0)
+		(at 312.42 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10003,7 +10003,7 @@
 		(fields_autoplaced yes)
 		(uuid "3ae9ea97-a896-48dc-8cd2-ecfa4efabe37")
 		(property "Reference" "S1"
-			(at 323.85 30.3529 0)
+			(at 318.77 32.8929 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10012,7 +10012,7 @@
 			)
 		)
 		(property "Value" "MX_stab"
-			(at 323.85 32.8929 0)
+			(at 318.77 35.4329 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10021,7 +10021,7 @@
 			)
 		)
 		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2u"
-			(at 317.5 31.75 0)
+			(at 312.42 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10030,7 +10030,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 317.5 31.75 0)
+			(at 312.42 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10039,7 +10039,7 @@
 			)
 		)
 		(property "Description" "Cherry MX-style stabilizer"
-			(at 317.5 31.75 0)
+			(at 312.42 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
