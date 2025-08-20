@@ -14,8 +14,8 @@ it has all the featurs that i would want without any extra stuff that i wouldn't
 - runs qmk firmware
 - boot/reset under the spacebar
 - smallest package is 0805
-- stf32f0x2 (xtal less usb)
+- stm32f0x2 (xtal less usb)
 - capslock indicator LED
 
-## layout
+## supported layouts
 ![Render](https://github.com/ZoharGalili/65_ThePCB/blob/main/assets/keyboard-layout.png)
